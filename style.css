@@ -1,0 +1,21 @@
+@media(min-width:768px){
+    .input-newsletter{
+        width: 50%;
+    }
+}
+
+.boxes .bi{
+    font-size: 3rem;
+}
+
+body::before{
+    display: block;
+    content: '';
+    height: 60px;
+}
+
+#map {
+    width: 100%;
+    height: 100%;
+    border-radius: 10px;
+}
